@@ -1,0 +1,15 @@
+body{
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+
+}
+#buttons{
+    display: flex;
+    justify-content: space-around;
+
+    button{
+        font-size: 28px;
+    }
+
+}
